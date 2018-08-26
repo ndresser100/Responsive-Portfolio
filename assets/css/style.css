@@ -144,6 +144,10 @@ h3, h2 {
   overflow: auto;
 }
 
+.hangman {
+  margin-top: 20px;
+}
+
 .work:nth-child(even) {
   margin-right: 40px;
 }
